@@ -1,0 +1,13 @@
+nome = input("Seu nome")
+input(f"Olá {nome}")
+
+
+
+
+
+
+
+
+
+
+    
