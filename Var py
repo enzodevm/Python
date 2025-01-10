@@ -1,0 +1,17 @@
+print("Criação da variável letral com o valor a")
+
+letral = 'a'
+
+print("Exibindo o valor da variável")
+
+print(letral)
+
+l2 = 'b'
+
+print(l2)
+
+print("my code")
+
+print("github code py")
+
+input("hey")
